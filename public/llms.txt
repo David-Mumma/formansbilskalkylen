@@ -1,0 +1,26 @@
+# Formansbilskalkylen.se
+
+> Oberoende guide och beräkningsverktyg för tjänstebilar och förmånsbilar i Sverige.
+
+Formansbilskalkylen.se är en oberoende jämförelseportal som hjälper svenska löntagare och företagare att beräkna Skatteverkets officiella förmånsvärde, schablonjustering för miljöbilar och verklig nettokostnad per månad för tjänstebilar.
+
+## Vad sidan erbjuder
+
+- **Förmånsvärdeberäkning 2026**: Förklaring av Skatteverkets beräkningsmodell med prisbasbeloppsdel, ränterelaterad del, prisdel och miljöbilsjustering.
+- **Jämförelsetabell**: Förmånsvärde och nettokostnad för populära företagsbilar som Tesla Model Y, Volvo EX40/EC40, Volkswagen ID.7 och Volvo XC60.
+- **Brutto vs Netto**: Tydlig genomgång av bruttolöneavdrag kontra nettolöneavdrag och hur det påverkar skatt, SGI och pensionsgrundande inkomst.
+- **Drivmedelsbeskattning**: Hur fri drivmedel beskattas (1,2 × marknadsvärde) och trängselskatt som förmån.
+- **FAQ**: Vanliga frågor om förmånsvärde på elbil, 7,5 basbelopps-regeln och drivmedelsbeskattning.
+
+## Målgrupp
+
+Svenska löntagare som överväger tjänstebil eller förmånsbil, HR- och löneansvariga, samt företagare som vill optimera sina bilförmåner.
+
+## Kontakt
+
+- Webbplats: https://www.formansbilskalkylen.se
+- E-post: kontakt@formansbilskalkylen.se
+
+## Integritet
+
+Formansbilskalkylen.se samlar inte in personuppgifter. Sidan innehåller annonslänkar via affiliatenätverk.
